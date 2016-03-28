@@ -3,6 +3,7 @@ package ch02;
 public class BMICalculator {
 
 	// declare variables
+     static double konflikt;
 	static double weight;
 	static double height;
 	static double BMI;
